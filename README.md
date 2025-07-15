@@ -1,21 +1,20 @@
-# Iteraciones en Python
+# Agenda de Contactos
 
-Esta carpeta contiene dos programas que usan ciclos para resolver problemas:
+Este programa en Python permite gestionar una agenda básica usando un diccionario. Las funcionalidades incluyen:
 
-## 1. Calculadora de Factorial (`factorial.py`)
+- Agregar nuevos contactos
+- Mostrar todos los contactos
+- Buscar contacto por nombre
+- Salir del programa
 
-Calcula el factorial de un número entero positivo usando un ciclo `while`.
+## Conceptos aplicados
 
-## 2. Tabla de Multiplicar (`tabla_multiplicar.py`)
+- Diccionarios (`dict`)
+- Ciclo `while`
+- Estructuras de control `if-elif-else`
+- Entrada/salida de datos
 
-Muestra la tabla de multiplicar de un número del 1 al 12 usando un ciclo `for`.
-
----
-
-## ¿Cómo ejecutar?
-
-Para factorial:
+## ¿Cómo ejecutarlo?
 
 ```bash
-python factorial.py
-
+python agenda_contactos.py
