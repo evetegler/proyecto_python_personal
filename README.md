@@ -1,13 +1,18 @@
-# Formulario en Consola
+# Clasificador de Números
 
-Este programa solicita datos personales del usuario e imprime un resumen que muestra:
+Este programa permite al usuario ingresar un número y clasifica si es:
 
-- Cadena de texto (`str`)
-- Número entero (`int`)
-- Número decimal (`float`)
-- Valor booleano (`bool`)
+- Positivo
+- Negativo
+- Igual a cero
+
+## ¿Qué conceptos se aplican?
+
+- Entrada de datos con `input()`
+- Conversión de tipo (`float`)
+- Condicionales `if`, `elif`, `else`
 
 ## ¿Cómo ejecutarlo?
 
 ```bash
-python formulario_usuario.py
+python clasificar_numero.py
