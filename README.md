@@ -1,20 +1,22 @@
-# Agenda de Contactos
+# Calculadora de Áreas de Figuras
 
-Este programa en Python permite gestionar una agenda básica usando un diccionario. Las funcionalidades incluyen:
+Este programa permite calcular el área de diversas figuras geométricas utilizando funciones por separado para cada caso.
 
-- Agregar nuevos contactos
-- Mostrar todos los contactos
-- Buscar contacto por nombre
-- Salir del programa
+## Figuras disponibles
+
+- Cuadrado
+- Rectángulo
+- Triángulo
+- Círculo
 
 ## Conceptos aplicados
 
-- Diccionarios (`dict`)
-- Ciclo `while`
-- Estructuras de control `if-elif-else`
-- Entrada/salida de datos
+- Definición de funciones
+- Reutilización de código
+- Entrada/salida
+- Módulo `math` para usar π
 
 ## ¿Cómo ejecutarlo?
 
 ```bash
-python agenda_contactos.py
+python areas_figuras.py
