@@ -1,18 +1,21 @@
-# Clasificador de Números
+# Iteraciones en Python
 
-Este programa permite al usuario ingresar un número y clasifica si es:
+Esta carpeta contiene dos programas que usan ciclos para resolver problemas:
 
-- Positivo
-- Negativo
-- Igual a cero
+## 1. Calculadora de Factorial (`factorial.py`)
 
-## ¿Qué conceptos se aplican?
+Calcula el factorial de un número entero positivo usando un ciclo `while`.
 
-- Entrada de datos con `input()`
-- Conversión de tipo (`float`)
-- Condicionales `if`, `elif`, `else`
+## 2. Tabla de Multiplicar (`tabla_multiplicar.py`)
 
-## ¿Cómo ejecutarlo?
+Muestra la tabla de multiplicar de un número del 1 al 12 usando un ciclo `for`.
+
+---
+
+## ¿Cómo ejecutar?
+
+Para factorial:
 
 ```bash
-python clasificar_numero.py
+python factorial.py
+
