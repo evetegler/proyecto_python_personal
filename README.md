@@ -1,17 +1,13 @@
-# Conversor de Unidades
+# Formulario en Consola
 
-Este programa en Python permite convertir entre distintas unidades:
+Este programa solicita datos personales del usuario e imprime un resumen que muestra:
 
-- Celsius ↔ Fahrenheit
-- Pesos chilenos ↔ Dólares
-- Metros ↔ Kilómetros
-
-## Requisitos técnicos
-
-- Uso de variables, operadores, entrada/salida y estructura básica del lenguaje.
-- No requiere librerías externas.
+- Cadena de texto (`str`)
+- Número entero (`int`)
+- Número decimal (`float`)
+- Valor booleano (`bool`)
 
 ## ¿Cómo ejecutarlo?
 
 ```bash
-python conversor_unidades.py
+python formulario_usuario.py
